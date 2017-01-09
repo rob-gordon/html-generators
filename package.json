@@ -1,0 +1,19 @@
+{
+  "name": "html-generators",
+  "version": "1.0.0",
+  "description": "Modular `Lorem Ipsum` HTML Content Pools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rob-gordon/html-generators.git"
+  },
+  "author": "Rob Gordon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rob-gordon/html-generators/issues"
+  },
+  "homepage": "https://github.com/rob-gordon/html-generators#readme"
+}
